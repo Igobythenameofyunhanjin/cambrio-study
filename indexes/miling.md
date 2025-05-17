@@ -6,4 +6,5 @@
   - Cutting a complication metal with high accuracy perfomance.
 
 ## Featuers
-- A Milling cutter is rotating and frabricating a metal. While Milling cutter fabricates the metal, Metal is fixed usually. 
+- A Milling cutter is rotating and frabricating a metal. While Milling cutter fabricates the metal, Metal is fixed usually.
+- Fabricates some various shapes. (Simple 2D, Complicated 3D, etc.) 
