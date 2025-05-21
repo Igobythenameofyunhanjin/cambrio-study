@@ -10,3 +10,4 @@
 - Fabricates some various shapes. (Simple 2D, Complicated 3D, etc.) 
 - Various type of Milling Machine: Horizon Milling Machine, Vertical Milling Machine, CNC Milling Machine.
 - Fast Fabricating ability, Massive Productivity with High Accuracy
+- Milling is used in various business environment. (Machine part, Aerospace part, etc.)
