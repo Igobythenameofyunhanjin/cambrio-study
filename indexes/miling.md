@@ -11,3 +11,13 @@
 - Various type of Milling Machine: Horizon Milling Machine, Vertical Milling Machine, CNC Milling Machine.
 - Fast Fabricating ability, Massive Productivity with High Accuracy
 - Milling is used in various business environment. (Machine part, Aerospace part, etc.)
+
+## Parts of Milling
+- Milling cutter
+  + Literally, This is cutter of milling system which can fabricate some metals, etc.
+- Spindle
+   + Axis of rotating milling cutter
+- Table
+   + This is for fixing a workpiece.
+- Feed System
+   + This is for moving a workpiece.
