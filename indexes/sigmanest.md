@@ -5,3 +5,6 @@
 - Using for laser cutting, plasma cutting, waterjet, etc.
 - Do Nesting Effectively in CAD
 - **KEY GOAL**: Reduce material waste, Save machine time, Maximize productivity.
+
+## Role of an Application Engineer in SigmaNEST Technical Team
+- Application Engineer is a bridge between the sigmaNEST software and customers who use sigmaNEST for manufacturing.
