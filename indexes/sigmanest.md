@@ -8,3 +8,6 @@
 
 ## Role of an Application Engineer in SigmaNEST Technical Team
 - Application Engineer is a bridge between the sigmaNEST software and customers who use sigmaNEST for manufacturing.
+
+## Core Responsibilities
+- Install sigmaNEST and configure on sigmaNEST user's machine.
