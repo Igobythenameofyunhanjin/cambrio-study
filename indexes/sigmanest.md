@@ -10,4 +10,5 @@
 - Application Engineer is a bridge between the sigmaNEST software and customers who use sigmaNEST for manufacturing.
 
 ## Core Responsibilities
-- Install sigmaNEST and configure on sigmaNEST user's machine.
+- Install sigmaNEST and configure settings on sigmaNEST user's machine.
+- User Feedback & Test on local environment & Troubleshotting about errors
