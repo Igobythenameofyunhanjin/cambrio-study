@@ -12,3 +12,4 @@
 ## Core Responsibilities
 - Install sigmaNEST and configure settings on sigmaNEST user's machine.
 - User Feedback & Test on local environment & Troubleshotting about errors
+- Communication with software developer about improvement features.
