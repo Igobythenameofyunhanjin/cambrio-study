@@ -13,3 +13,7 @@
 - Install sigmaNEST and configure settings on sigmaNEST user's machine.
 - User Feedback & Test on local environment & Troubleshotting about errors
 - Communication with software developer about improvement features.
+
+## Technical Area
+- CAD Files
+  + Open and Analyze CAD Files (ex: .dxf file)
