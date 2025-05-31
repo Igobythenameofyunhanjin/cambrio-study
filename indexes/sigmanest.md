@@ -17,3 +17,5 @@
 ## Technical Area
 - CAD Files
   + Open and Analyze CAD Files (ex: .dxf file)
+- CNC Programming
+  + Need to understand about Computer Numeric Control Programming (e.g. G-Code or NC Code)
