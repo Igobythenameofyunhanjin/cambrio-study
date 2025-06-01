@@ -19,3 +19,5 @@
   + Open and Analyze CAD Files (ex: .dxf file)
 - CNC Programming
   + Need to understand about Computer Numeric Control Programming (e.g. G-Code or NC Code)
+- Post-Processor Editing
+  + Modify machine's specific settings to output correct code.
