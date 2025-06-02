@@ -8,3 +8,4 @@
 - Example: (X: 100, Y:50) is 100mm to right, 50mm to top 
 
 ## Routing the cutting path
+- sigmaNEST calculates X and Y coordinates for nesting and cutting path.
