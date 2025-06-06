@@ -8,4 +8,5 @@
   + Provide about High speed process ability and automatic program write
   + Reduce man power pressure and make time quickly 5+a times more
 - Machine
+  + All cutting machine is capable with sigmaNEST
 - Motion
