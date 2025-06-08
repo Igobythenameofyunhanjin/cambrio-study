@@ -11,3 +11,5 @@
   + All cutting machine is capable with sigmaNEST
 - Motion
   + Optimize cutting motion, Setting cutting path effectively, can reduce cutting time over than 20%
+
+## Saving Material over 80%
