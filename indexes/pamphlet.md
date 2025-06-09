@@ -13,3 +13,5 @@
   + Optimize cutting motion, Setting cutting path effectively, can reduce cutting time over than 20%
 
 ## Saving Material over 80%
+
+## sigmaNEST's Hgih speed & High Effective Automation Nesting
