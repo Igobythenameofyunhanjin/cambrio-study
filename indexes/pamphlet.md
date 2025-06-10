@@ -12,6 +12,10 @@
 - Motion
   + Optimize cutting motion, Setting cutting path effectively, can reduce cutting time over than 20%
 
-## Saving Material over 80%
+## Make Saving Material Percent over 80%
 
 ## sigmaNEST's Hgih speed & High Effective Automation Nesting
+- Previous auto-nesting was not eligible for effective saving material ability.
+- So Before, Users have to use manual-nesting only.
+- But now, We have added high-technology nesting algorithm to our auto-nesting function.
+- So Now, We can save material fee over than 5% with auto-nesting function.
