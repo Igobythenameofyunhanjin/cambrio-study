@@ -20,4 +20,6 @@
 - But now, We have added high-technology nesting algorithm to our auto-nesting function.
 - So Now, We can save material fee over than 5% with auto-nesting function.
 
-## 
+## Saving Material Fee Succeeded Cases
+- A company (from Gunsan)
+  + Saved 6.5% money of Original Material Fee
