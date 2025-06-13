@@ -23,3 +23,5 @@
 ## Saving Material Fee Succeeded Cases
 - A company (from Gunsan)
   + Saved 6.5% money of Original Material Fee
+- B company (from Daegu)
+  + Saved 7.9% money of Original Material Fee
